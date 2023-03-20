@@ -5,22 +5,22 @@ const TILE_SIZE = 100;
 const GAP_SIZE = 10;
 const BOARD_SIZE = TILE_SIZE * ROWS + GAP_SIZE * (ROWS - 1);
 const TILE_VALUES = [
-  "img1.jpg",
-  "img2.jpg",
-  "img3.jpg",
-  "img4.jpg",
-  "img5.jpg",
-  "img6.jpg",
-  "img7.jpg",
-  "img8.jpg",
-  "img9.jpg",
-  "img10.jpg",
-  "img11.jpg",
-  "img12.jpg",
-  "img13.jpg",
-  "img14.jpg",
-  "img15.jpg",
-  "img16.jpg"
+  "zendaya1.jpg",
+  "zendaya2.jpg",
+  "zendaya3.jpg",
+  "zendaya4.jpg",
+  "zendaya5.jpg",
+  "zendaya6.jpg",
+  "zendaya7.jpg",
+  "zendaya8.jpg",
+  "zendaya9.jpg",
+  "zendaya10.jpg",
+  "zendaya11.jpg",
+  "zendaya12.jpg",
+  "zendaya13.jpg",
+  "zendaya14.jpg",
+  "zendaya15.jpg",
+  "zendaya16.jpg"
 ];
 
 // Game state
